@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ana72@cornell.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aishanur/)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-D14836?style=for-the-badge&logo=Hugging-Face)](https://huggingface.co/aishanur)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-6B7280?style=for-the-badge&logo=Hugging-Face)](https://huggingface.co/aishanur)
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
